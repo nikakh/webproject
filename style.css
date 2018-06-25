@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://www.ecifm.com/wp-content/uploads/2016/06/website-design-background-1.jpg");
+    background-image: norepeat;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#idForm {
+    border: 0.5px solid grey;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top:100px;
+    box-shadow:2px 2px 5px white ;
+    text-align:center;
+    color: white
+}
+
+#idForm input {
+    margin: 10px;
+    text-align:center;
+    padding: 5px;
+    
+}
+
+#idForm input[type=submit]{
+    background-color:green;
+    border-radius: 3px;
+}
+
+#idForm a{
+    text-decoration: none;
+    color:white;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size: 100px;
+}
+span{
+    color: orange;
+}
+
+.ans {
+    color : green;
+    text-align:center;
+    font-size: 40px;
+}
+
+.noans{
+    color : red;
+    text-align:center;
+    font-size: 40px;
+}
+

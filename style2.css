@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://www.ecifm.com/wp-content/uploads/2016/06/website-design-background-1.jpg");
+    background-image: norepeat;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:white;
+}
+a {
+    text-decoration: none;
+    color:white;
+}
+
+.menu {
+    color:white;
+    display:inline-block;
+    float:left;
+    width: 100%;
+    border-bottom:0.5px solid;
+    box-shadow:2px 2px 5px white;
+    padding: 0 20px 0 20px;
+}
+
+
+
+.menu span {
+    color: orange;
+    margin:0 20px 0 0;
+}
+
+.menu a{
+    float:right;
+    padding-right:40px;
+}
+
